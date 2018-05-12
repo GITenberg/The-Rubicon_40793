@@ -1,0 +1,33 @@
+_repo: The-Rubicon_40793
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Benson, E. F. (Edward Frederic)
+    aliases:
+    - Benson, Edward F. (Edward Frederic)
+    - Benson, Edward Frederic
+    birthdate: 1867
+    deathdate: 1940
+    gutenberg_agent_id: '812'
+    url: http://www.gutenberg.org/2009/agents/812
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Frederic_Benson
+description: ''
+gutenberg_issued: '2012-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40793'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Marriage -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Aristocracy (Social class) -- England -- Fiction'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PR'
+title: The Rubicon
+url: http://www.gutenberg.org/ebooks/40793
